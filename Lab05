@@ -70,3 +70,25 @@ class Proj05Runner{
 
 //Instructions
 
+Proj05 Copyright 2020 R.G.Baldwin
+
+Among other things, the purpose of this assignment is to assess the student's ability to write a program dealing with constructors and overridden methods.
+
+PROGRAM SPECIFICATIONS
+
+Beginning with the file that you downloaded named Proj05.java, create a new file named Proj05Runner.java to meet the specifications given below.
+
+Note that you must not modify code in the file named Proj05.java.
+
+Be sure to display your name in the output as indicated.
+
+When you place both files in the same folder, compile them both, and run the file named Proj05.java, the program must display the text shown below on the command line screen.
+
+I certify that this program is my own work
+and is not the work of others. I agree not
+to share my solution with others.
+==========================
+Call the method named run.
+Replace this line with your name
+
+Hello World
